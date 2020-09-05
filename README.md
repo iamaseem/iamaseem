@@ -44,7 +44,7 @@
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamaseem&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
+[website]: https://iamaseem.github.io
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
