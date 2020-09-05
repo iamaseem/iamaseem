@@ -4,9 +4,9 @@
 
 - 📹 I’m currently working on a <b>Video Streaming App</b>!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with others.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fact: I Love Linux ❤️
 
 <!--### Connect with me:
 
